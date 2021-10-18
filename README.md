@@ -1,4 +1,4 @@
-# :wawe: The Basics of GitHub [MODIFIED BY IBRAHIM HALIL MARSIL, 150200026]
+# :wave: The Basics of GitHub [MODIFIED BY IBRAHIM HALIL MARSIL, 150200026]
 
 ## 🤓 Course overview and learning outcomes 
 
