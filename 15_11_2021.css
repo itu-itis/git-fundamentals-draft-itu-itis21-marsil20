@@ -11,6 +11,6 @@ em             {
     background-color: lightgrey;
     font-weight: bold;
 }
-ul li {
+ul {
     list-style-type: square;
 }
