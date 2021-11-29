@@ -1,16 +1,32 @@
-h1                        {
-      font-size: 24pt ;
+p h1 {
+      font: size 24pt ;
       color: red;
       text-decoration: underline;
       font-family: Verdana, helvetica , sans-serif;
-}                                    
-
+      text-align: center;
+      border: thick solid red;
+      text-decoration: none;
+      padding: 1ex;
+      width: 50%;
+      }                                
 em             {
     font-style: normal;
     color: green;
     background-color: lightgrey;
     font-weight: bold;
 }
-ul {
+ul li {
     list-style-type: square;
 }
+a:hover {
+    text-decoration: none;
+}
+li:first-child 
+{border: thick solid green;
+margin-bottom: 1em;
+padding: 1ex;
+width: 40%;
+}
+
+p.centered {
+    text-align: center;
